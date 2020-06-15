@@ -13,8 +13,8 @@ _Chapter 1: Structure_
 * Key components of any page are: <html> <head> <title> <body>
   
 _Chapter 8: Extra Markup_
-* Covers doctype <!DOCTYPE html>, comments <!-- -->, id attributes to elements, class attributes to elements, block elements <ul>, <li>, inline elements <img>
-* <div> groupings for blocks, <span> which is div for inline elements.
+* Covers doctype <!DOCTYPE html>, comments <!-- -->, id attributes to elements, class attributes to elements, block elements ul, li, inline elements <img>
+* div groupings for blocks, span which is div for inline elements.
 * <iframe> which is a window to another page. An example is a google map. 
 * <meta>. <meta> lives in the <head> element.
 * escape chars, which is all the funky stuff like copyright and ampersand.
@@ -38,6 +38,3 @@ _Javascript: Intro + Chapter 1: ABCs of Javascript_
 * Methods are things people do with the object, ways people interact with it. They are expressed like this: makeBooking(), checkAvailability(). Or maybe a gift card would have checkBalance(), addFunds().
 * Document objects generate new content into the HTML page. including write() and getElementById(). document.write() is used a lot. 
 * Use the <script> element in the HTML page to tell the page where to find the .js file. 
-  
-* 
-
