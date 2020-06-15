@@ -2,7 +2,7 @@
 
 ## June 2020
 
-* _Reading 1_
+*  [_Reading 1_](reading01.md)
 * _Reading 2_
 * _Reading 3_
 * _Reading 4_
