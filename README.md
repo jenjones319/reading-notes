@@ -2,9 +2,9 @@
 
 ## June 2020
 
-*  [_Reading 1_](class-01.md)
-* _Reading 2_
-* _Reading 3_
+* [_Reading 1_](class-01.md)
+* [_Reading 2_](class-02.md)
+* [_Reading 3_](class-03.md)
 * _Reading 4_
 * _Reading 5_
 * _Reading 6_
