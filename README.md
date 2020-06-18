@@ -5,11 +5,11 @@
 * [_Reading 1_](class-01.md)
 * [_Reading 2_](class-02.md)
 * [_Reading 3_](class-03.md)
-* _Reading 4_
+* [_Reading 4_](class-04.md)
 * _Reading 5_
 * _Reading 6_
 * _Reading 7_
-* _Reading 8_
+* _Reading 8_g
 * _Reading 9_
 * _Reading 10_
 * _Reading 11_
