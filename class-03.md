@@ -31,5 +31,5 @@ __Chapter 4: Decisions and Loops__
 }
 * for loops are generally used to loop through an array.
 * while loops are used repeating a block of code while a condition is true. 
-* do while loops - i still don't understand what this does. 
+* do while loops - **I still don't understand what this does.** I need an example of its practical use on a site. 
 * example code for a loop inside an if statement is on p 180,181.
