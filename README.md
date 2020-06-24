@@ -8,8 +8,8 @@
 * [_Reading 4_](class-04.md)
 * [_Reading 5_](class-05.md)
 * [_Reading 6_](class-06.md)
-* _Reading 7_
-* _Reading 8_
+* [_Reading 7_](class-07.md)
+* [_Reading 8_](class-08.md)
 * _Reading 9_
 * _Reading 10_
 * _Reading 11_
