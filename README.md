@@ -13,7 +13,7 @@
 * _Reading 9_
 * _Reading 10_
 * [_Reading 11_](class-11.md)
-* _Reading 12_
+* [_Reading 12_](class-12.md)
 * _Reading 13_
 * _Reading 14_
 * _Reading 15_
