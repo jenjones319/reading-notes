@@ -11,7 +11,7 @@
 * [_Reading 7_](class-07.md)
 * [_Reading 8_](class-08.md)
 * _Reading 9_
-* _Reading 10_
+* [_Reading 10_](class-10.md)
 * [_Reading 11_](class-11.md)
 * [_Reading 12_](class-12.md)
 * _Reading 13_
