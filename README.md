@@ -1,6 +1,8 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-## June 2020
+This page is dedicated to the reading notes from my DeltaV code classes. Every day or two, we have reading assignments and these are my notes. 
+
+## Code 201
 
 * [_Reading 1_](class-01.md)
 * [_Reading 2_](class-02.md)
@@ -17,3 +19,9 @@
 * _Reading 13_
 * _Reading 14_
 * _Reading 15_
+
+## Code 301
+
+## Code 401
+
+
