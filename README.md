@@ -22,6 +22,8 @@ This page is dedicated to the reading notes from my DeltaV code classes. Every d
 
 ## Code 301
 
+* [_Reading 1_](301read-01.md)
+
 ## Code 401
 
 
