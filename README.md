@@ -28,6 +28,7 @@ This page is dedicated to the reading notes from my DeltaV code classes. Every d
 * [_Reading 4_](301read-04.md)
 * [_Reading 5_](301read-05.md)
 * [_Reading 6_](301read-06.md)
+* [_Reading 7_](301read-07.md)
 
 ## Code 401
 
