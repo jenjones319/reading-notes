@@ -40,5 +40,8 @@ This page is dedicated to the reading notes from my DeltaV code classes. Every d
 ## Code 401
 * [_Reading 1_](401read-01.md)
 * [_Reading 2_](401read-02.md)
+* [_Reading 3_](401read-03.md)
+* [_Reading 4_](401read-04.md)
+* [_Reading 5_](401read-05.md)
 
 
