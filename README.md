@@ -45,5 +45,8 @@ This page is dedicated to the reading notes from my DeltaV code classes. Every d
 * [_Reading 5_](401read-05.md)
 * [_Reading 6_](401read-06.md)
 * [_Reading 7_](401read-07.md)
+* [_Reading 8_](401read-08.md)
+* [_Reading 9_](401read-09.md)
+* [_Reading 10_](401read-10.md)
 
 
